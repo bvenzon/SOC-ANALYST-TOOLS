@@ -16,7 +16,7 @@
 - [CheckShortURL](https://checkshorturl.com) - Desencurtador de URL para t.co, goo.gl, bit.ly, amzn.to, tinyurl.com, ow.ly, youtu.be e muitos outros.
 - [crt.sh](https://crt.sh/) - Somente análise de Hash
 
-## Verificações de Anexo
+## Verificações de Anexos
 
 **Ler os termos de uso, pois dependendo do site, podem compartilhar informações contidas nos anexos*
 
@@ -39,7 +39,7 @@
 - [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)
 - [VirusTotal](https://www.virustotal.com/gui/home/search)
 
-## Consulta de Reputação de IP e Geolocação
+## Consulta de Reputação de IP e Geolocalização
 
 - [AbuseIPDB](https://www.abuseipdb.com/)
 - [IP Location](https://iplocation.io/)
