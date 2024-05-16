@@ -18,7 +18,7 @@
 
 ## Verificações de Anexo
 
-*Ler os termos de uso, pois eles podem compartilhar informações contidas nos anexos*
+**Ler os termos de uso, pois dependendo do site, podem compartilhar informações contidas nos anexos*
 
 - [Jotti's Malware Scan](https://virusscan.jotti.org/en-US/scan-file)
 - [VirusTotal](https://www.virustotal.com/gui/home/upload)
