@@ -14,7 +14,6 @@
 - [Joe Sandbox](https://joesandbox.com/#windows)
 - [MetaDefender](https://metadefender.opswat.com/) - Permite análise de Hash
 - [CheckShortURL](https://checkshorturl.com) - Desencurtador de URL para t.co, goo.gl, bit.ly, amzn.to, tinyurl.com, ow.ly, youtu.be e muitos outros.
-- [crt.sh](https://crt.sh/) - Somente análise de Hash
 
 ## Verificações de Anexos
 
