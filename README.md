@@ -10,7 +10,7 @@
 - [ANY.RUN](https://app.any.run/submissions)
 - [Talos Intelligence](https://talosintelligence.com/reputation_center/) - Permite análise de Hash
 - [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Permite análise de Hash
-- [Palo Alto- URL Filtering] (https://urlfiltering.paloaltonetworks.com/query/)
+- [Palo Alto- URL Filtering](https://urlfiltering.paloaltonetworks.com/query/)
 - [Sucuri SiteCheck](https://sitecheck.sucuri.net)
 - [Joe Sandbox](https://joesandbox.com/#windows)
 - [MetaDefender](https://metadefender.opswat.com/) - Permite análise de Hash
