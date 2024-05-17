@@ -8,8 +8,8 @@
 - [AlienVault OTX](https://otx.alienvault.com/)
 - [Hybrid Analysis](https://www.hybrid-analysis.com/)
 - [ANY.RUN](https://app.any.run/submissions)
-- [Talos Intelligence](https://talosintelligence.com/reputation_center/)
-- [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)
+- [Talos Intelligence](https://talosintelligence.com/reputation_center/) - Permite análise de Hash
+- [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Permite análise de Hash
 - [Sucuri SiteCheck](https://sitecheck.sucuri.net)
 - [Joe Sandbox](https://joesandbox.com/#windows)
 - [MetaDefender](https://metadefender.opswat.com/) - Permite análise de Hash
