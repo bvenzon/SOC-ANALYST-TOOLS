@@ -16,6 +16,10 @@
 - [MetaDefender](https://metadefender.opswat.com/) - Permite análise de Hash
 - [CheckShortURL](https://checkshorturl.com) - Desencurtador de URL para t.co, goo.gl, bit.ly, amzn.to, tinyurl.com, ow.ly, youtu.be e muitos outros.
 
+## Plugins do Chrome para Facilitar nas Análises de IP, URL, Domínio, etc.
+
+- SOC Multi-tool (https://chromewebstore.google.com/detail/soc-multi-tool/diagjgnagmnjdfnfcciocmjcllacgkab?pli=1)
+- Sputnik (https://chromewebstore.google.com/detail/sputnik/manapjdamopgbpimgojkccikaabhmocd?hl=en)
 
 ## Verificações de Anexos
 
